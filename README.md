@@ -2,9 +2,13 @@
 
 Welcome to **Modern Tic Tac Toe by aksh120**, a modern and sleek take on the classic game! This project brings the nostalgic strategy game to life with a responsive design and smooth gameplay for players of all ages.  
 
-Try it now: [Live Demo](https://games.watchtopia.site/games/tic-tac-toe)
+**Try it now:** [Live Demo](https://games.watchtopia.site/games/tic-tac-toe)
 
-![Tic Tac Toe Demo Screenshot](https://i.imgur.com/GyfZ0HN.png)
+**Screenshots:**\
+Light Mode:
+![Tic Tac Toe Demo Screenshot](https://i.imgur.com/Cb0fNQ7.png)
+Dark Mode:
+![Tic Tac Toe Demo Screenshot](https://i.imgur.com/q5DSDpr.png)
 
 ---
 
