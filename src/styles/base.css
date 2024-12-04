@@ -1,0 +1,9 @@
+@layer base {
+  body {
+    @apply antialiased transition-all duration-200 ease-in-out;
+  }
+
+  .dark {
+    color-scheme: dark;
+  }
+}
